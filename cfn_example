@@ -26,8 +26,8 @@ cfn({
   },
   awsConfig: {
     region: 'us-east-2',
-    accessKeyId: 'AKIAXDPEFLWUO2XDVZHC',
-    secretAccessKey: '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',
+    accessKeyId: 'my_akid',
+    secretAccessKey: 'my_skid',
   },
   capabilities: ['CAPABILITY_IAM'],
   checkStackInterval: 5000,

@@ -1,0 +1,3 @@
+var config = new AWS.Config({
+  accessKeyId: 'AKIAXDPEFLWUGKR44ANG', secretAccessKey: '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', region: 'us-west-2'
+});
